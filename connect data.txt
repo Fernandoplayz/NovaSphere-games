@@ -1,0 +1,1 @@
+miner sim|https://raw.githubusercontent.com/Fernandoplayz/NovaSphere-games/main/htmls/Miner%20sim.html|
