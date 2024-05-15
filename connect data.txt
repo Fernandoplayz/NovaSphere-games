@@ -1,1 +1,1 @@
-miner sim|https://bean-clicker.vercel.app|
+bean clicker|https://bean-clicker.vercel.app|
